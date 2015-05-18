@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShowGaze</string>
+    <string name="stop">Stop</string>
+    <string name="action_settings">Stop</string>
+    <string name="show_gaze_voice_trigger">show gaze</string>
+
+</resources>
